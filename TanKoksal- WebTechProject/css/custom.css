@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+footer {
+	background-color: #444444;
+	padding: .5% 2%;
+	color: #fff;
+	margin: 30px 0;
+}
+
+.mblogo {
+	margin: 15% 4% 4% 4%;
+}
+
+.bannerad {
+	margin: 15% 4% 4% 4%;
+}
+
+.jborder {}
+
+.leaseimg {
+	margin: 5px 5px 5px 5px
+}
+
+.financeimg {
+	margin: 5px 5px 5px 5px
+}
+
+.creditimg {
+	margin: 5px 5px 5px 5px
+}
+
+.careerimg {
+	margin: 5px 5px 5px 5px
+}
